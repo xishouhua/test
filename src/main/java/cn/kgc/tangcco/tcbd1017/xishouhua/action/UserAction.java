@@ -39,6 +39,7 @@ public class UserAction extends BaseServlet{
 			System.out.println(user);
 		}else {
 			System.out.println("登录失败！");
+			System.out.println("shia");
 		}
 	}
 }
