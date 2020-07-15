@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+	<bean id = "UserService" class = "cn.kgc.tangcco.tcbd1017.xishouhua.service.impl.UserServiceImpl"/>
+</beans>
